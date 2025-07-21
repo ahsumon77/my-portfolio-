@@ -159,7 +159,7 @@ Update src attributes in index.html to match the exact file name (case-sensitive
 
 
 Deploying the Portfolio
-The portfolio is hosted on GitHub Pages at https://ahsumon77.github.io/my-portfolio/. To deploy or update it:
+The portfolio is hosted on GitHub Pages at https://ahsumon77.github.io/pk/. To deploy or update it:
 
 Push Changes to GitHub:
 
@@ -169,7 +169,7 @@ git push origin main
 
 
 Or manually upload files via GitHub:
-Go to https://github.com/ahsumon77/my-portfolio.
+Go to https://github.com/ahsumon77/pk.
 Click “Add file” > “Upload files” and upload updated index.html or assets/ files.
 Commit changes.
 
@@ -183,14 +183,14 @@ Go to “Settings” > “Pages” in your repository.
 Confirm the source is set to the main branch and the root folder (/).
 
 
-Wait 1-5 minutes for changes to reflect at https://ahsumon77.github.io/my-portfolio/.
+Wait 1-5 minutes for changes to reflect at https://ahsumon77.github.io/pk/.
 
 
 Alternative: Deploy on Netlify:
 
 Sign up at netlify.com.
 Go to “Sites” > “Add new site” > “Import an existing project.”
-Connect to your GitHub repository (ahsumon77/my-portfolio) and deploy the main branch.
+Connect to your GitHub repository (ahsumon77/pk) and deploy the main branch.
 Netlify provides a unique URL (e.g., your-site-name.netlify.app).
 
 
