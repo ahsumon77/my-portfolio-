@@ -1,6 +1,6 @@
 # my-portfolio
 Visual :-
-<img width="1818" height="513" alt="Screenshot 2025-07-21 at 03-43-39 AZIUL HAKIM - Portfolio" src="https://github.com/user-attachments/assets/067f8c6b-85d9-43ec-b0da-0731a54e5ccd" />
+![Uploading Screenshot 2025-07-21 at 03-43-39 AZIUL HAKIM - Portfolio.png…]()
 
 <img width="1818" height="549" alt="Screenshot 2025-07-21 at 03-44-09 AZIUL HAKIM - Portfolio" src="https://github.com/user-attachments/assets/63fa82bc-a8a2-489a-9fc7-6c22918fa8a9" />
 
